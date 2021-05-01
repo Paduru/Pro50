@@ -1,0 +1,30 @@
+body {
+  background-color: dodgerblue;
+}
+h1 {
+  font-family: fantasy;
+  color: gold;
+}
+img {
+  margin: 5px;
+  border: 2px solid black;
+}
+ul {
+  margin: 5px;
+  font-family: cursive;
+}
+.grid {
+  display: flex;
+  justify-content: space-evenly;
+}
+h3 {
+  color: rgb(0, 50, 255);
+  font-family: cursive;
+}
+.origami {
+  border: 3px solid white;
+}
+
+.bodyImg {
+  text-align: center;
+}
